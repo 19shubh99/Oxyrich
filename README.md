@@ -1,10 +1,10 @@
 # Oxyrich
 cfd++
 
-2014- Hudhud Odisha
-2016- Kyant Andhra Pradesh
-2017- Mora West Bengal
-2017- Ockhi Tamil Nadu
+2014- Hudhud Odisha,
+2016- Kyant Andhra Pradesh,
+2017- Mora West Bengal,
+2017- Ockhi Tamil Nadu.
 
 Its not that, it been a long time since these deadly wind disaters trembled India nor is it that there are no existing solutions for timely detection of these disasters.
 However all the current existing solution are based on a large scale through the meteorogical departmnet reports or an individual has to be dependent on the internet to have excess of the weather apps in their cell phones, moreover there do not exist any alarming systems except for the social media and the news platforms to inform the innocent citizens about the same.
