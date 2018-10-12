@@ -9,9 +9,9 @@ cfd++
 Its not that, it been a long time since these deadly wind disaters trembled India nor is it that there are no existing solutions for timely detection of these disasters.
 However all the current existing solution are based on a large scale through the meteorogical departmnet reports or an individual has to be dependent on the internet to have access of the weather apps in their cell phones, moreover there do not exist any alarming systems except for the social media and the news platforms to inform the innocent citizens about the same.
 
-Platform:        Android Application.
-Mobile features: GPS.
-                 Microphone.
+Platform:        Android Application. ,
+Mobile features: GPS,
+                 Microphone. ,
 Database:        Amplitude-frequency characterstics.                 
 
 We as team Oxyrich aim at a detection cum alarming system, to detect and alarm the fellow beings timely of any foresight wind disaster.The insights that make our system unique from other existing solutions is that this system could be accesible offline along with the fact that any individual having this application installed in its cell phone could detect the wind speed at an individual level, and rest else of alarming will be taken care of by the application itself.
